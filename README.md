@@ -35,14 +35,17 @@ Toggle essential Windows features with ease:
 
 ## 📦 Installation
 
-1. Download the latest version from the [Releases](https://github.com/YourUsername/winweak/releases) section.
+1. Download the latest version from the [Releases](https://github.com/souzaisrage/winweak-app/releases/tag/v1.0) section.
 2. Run the installer and follow the setup wizard.
 3. Launch WinWeak and take control of your system.
 
 ---
 
 ## 🖼️ Screenshots
-> *(Optional - Add some images or GIFs here to show the app in action)*
+> ![image](https://github.com/user-attachments/assets/4c6ee635-5488-47c9-b1f8-b866baee120c)
+> ![image](https://github.com/user-attachments/assets/b302c9e3-f3a6-44fe-af7b-f34f74cf193c)
+> ![image](https://github.com/user-attachments/assets/3356482c-472c-4591-89ab-34691f3eb537)
+
 
 ---
 
