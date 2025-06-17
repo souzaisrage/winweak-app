@@ -2,6 +2,9 @@
 > [!WARNING]
 > APP UNDER DEVELOPMENT
 
+> [!NOTE]
+> SOURCE CODE WILL BE AVAILABLE SOON
+
 **WinWeak** is a lightweight, powerful Windows utility designed to give users more control over their system performance, hardware monitoring, and settings. Whether you're optimizing a gaming setup or cleaning up an old PC, WinWeak is your all-in-one toolkit.
 
 > ✅ Compatible with **Windows 10** and **Windows 11**
