@@ -62,7 +62,7 @@ WinWeak is a third-party tool developed to enhance Windows usability. Use featur
 
 ## 📧 Feedback & Support
 
-Have suggestions or found a bug? Open an [issue](https://github.com/souzaisrage/winweak-app/issues) or contact me via [rafaelalexsouza1337@example.com].
+Have suggestions or found a bug? Open an [issue](https://github.com/souzaisrage/winweak-app/issues) or contact me via [rafaelalexsouza1337@gmail.com].
 
 ---
 
