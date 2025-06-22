@@ -75,9 +75,9 @@ Developed by **souzaisrage**
 
 ## 📃 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/souzaisrage/winweak-app/blob/main/LICENSE.txt).
 
---
+---
 
 ## 🌐 Website
 
